@@ -1,2 +1,3 @@
 # ThinkPad-T430-linux-Battery-driver
+bug描述：T430使用63W电源适配器充电的时候会出现充电和放电指示来回跳动的情况
 修复thinkpad T430在linux下充电指示bug
